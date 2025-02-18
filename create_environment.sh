@@ -8,9 +8,6 @@ dir_path="submission_reminder_$name"
 
 mkdir "$dir_path"
 
-# Create the README.md file
-touch "README.md"
-
 # Check if the directory was created successfully
 if [ -d "$dir_path" ]; then
     echo "Directory created successfully"
