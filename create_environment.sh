@@ -111,6 +111,7 @@ Pascaline, Shell Navigation, not submitted
 Angeline, Shell Navigation, not submitted
 Ornella, Shell Navigation, submitted
 EOF
+
 echo "submissions.txt file created successfully"
 echo "Environment setup completed successfully"
 echo "Navigate to the $dir_path directory to run the application"
